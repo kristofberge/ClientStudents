@@ -1,0 +1,6 @@
+C:\prog\C#\StudentsClient\bin\Debug\StudentsClient.pdb
+C:\prog\C#\StudentsClient\obj\Debug\StudentsClient.pdb
+C:\prog\C#\StudentsClient\obj\Debug\StudentsClient.csprojResolveAssemblyReference.cache
+C:\prog\C#\StudentsClient\bin\Debug\StudentsClient.dll.config
+C:\prog\C#\StudentsClient\bin\Debug\StudentsClient.dll
+C:\prog\C#\StudentsClient\obj\Debug\StudentsClient.dll
